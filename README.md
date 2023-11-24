@@ -1,7 +1,7 @@
 # Android
 ## Emulator 
 ![화면](https://github.com/Jun-1108/Android/assets/48702150/7c55f294-fd67-4bef-a0de-160248aa108e)
-![화면2](https://github.com/Jun-1108/Android/assets/48702150/253134e3-e6ad-42e5-a91f-9298eb347180)
+![화면2](https://github.com/Jun-1108/Android/assets/48702150/253134e3-e6ad-42e5-a91f-9298eb347180)<br>
 기존에 인공지능 경진대회에 냈었던 수화 학습 서비스를 앱으로 만들어 보았습니다.
 <br>
 ## 서비스 소개
