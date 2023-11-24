@@ -12,8 +12,8 @@
 ## 수화 단어 예시
 ![수화 단어 예시](https://github.com/Jun-1108/Android/assets/48702150/4799050e-a0c9-461b-a73e-5dc055f109ee)
 ## 난이도 조절
-![난이도](https://github.com/Jun-1108/Android/assets/48702150/49c4ea88-c2c2-416f-af9d-210ead01d22f)
 초급을 클릭하면 초급으로 값이 설정된다.(초급,중급,고급이 이벤트되는 위치가 아쉽긴하지만 고치기 힘들었다..)
+![난이도](https://github.com/Jun-1108/Android/assets/48702150/49c4ea88-c2c2-416f-af9d-210ead01d22f)
 ![초급](https://github.com/Jun-1108/Android/assets/48702150/92bb134c-8abb-40d9-95ac-d19cbb3e1271)
 ## 느낀점
 인공지능 경진대회를 참가할 때는 아이디어만으로 '~ 할 것이다.' 라는 구상만 했었는데, 실제로 앱으로 만들어보니 더 많은 기능이 필요할 것으로 판단된다. 
