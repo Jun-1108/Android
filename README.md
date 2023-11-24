@@ -8,6 +8,7 @@
 ![서비스 소개](https://github.com/Jun-1108/Android/assets/48702150/1fc95185-a80c-41c4-a440-a30aec84fce0)
 
 ## 국가별 수화
+국가별 수화가 다른다는 점을 알려주며, 국가마다 수화 언어를 보여준다. 아직은 한국어와 영어밖에 없지만 더 많은 국가별 수화도 넣을 수 있을 듯하다.
 ![국가별 수화](https://github.com/Jun-1108/Android/assets/48702150/d166835a-c803-4058-bfba-60abe237d9b6)
 ## 수화 단어 예시
 ![수화 단어 예시](https://github.com/Jun-1108/Android/assets/48702150/4799050e-a0c9-461b-a73e-5dc055f109ee)
